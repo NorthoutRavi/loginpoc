@@ -1,0 +1,9 @@
+.logouButton{
+    background-color: blueviolet;
+    color: white;
+    border: 1px solid red;
+    cursor: pointer;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}

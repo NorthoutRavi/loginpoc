@@ -1,0 +1,50 @@
+body, #root {
+    height: 100%;
+  }
+  .login_container {  
+    background-color: hsl(0, 21%, 81%);
+    height: 100vh;
+  }
+  .logn_bg {
+      position: relative;
+      background-color:#ffccff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+    .brand_log{
+      width: 300px;
+    }
+    .kep-login-facebook{
+      width: 220px !important;
+      font-size: 14px !important;
+      margin-bottom: 20px;
+      padding: 10px !important;
+      margin: 5px;
+      border-radius: 5px !important;
+    }
+    .login-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .login-container h1{
+      color:blueviolet;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 30px;
+      text-decoration: underline;
+    }
+
+    .login_btn{
+      background-color: cornflowerblue;
+      border-radius: 10px;
+      padding: 8px 30px;
+      margin-top: 30px;
+      width: 350px;
+    }
+    .loginBtn{
+      width: 224px;
+      margin-top: 10px;
+    }
